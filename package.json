@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@raumobil/react-scripts": "^1.1.4-raumo.2",
     "bootstrap": "^4.1.1",
-    "raumo-react-scripts": "1.2.8",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "reactstrap": "^6.1.0"
